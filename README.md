@@ -1,5 +1,5 @@
 
-## Oiii eu sou a Patricia Dias Baldez, Desenvolvendo sistemas e sites web front!
+## Oiii eu sou a Patricia Dias Baldez, Desenvolvendo sistemas e sites!
 - 🌱 Desenvolvedora front-end
 - 👯 Typescript, React, Angular, ...
 
