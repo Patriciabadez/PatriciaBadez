@@ -1,7 +1,7 @@
 
-## Oiii eu sou a Patricia Baldez, estudante de programação e tecnologia, todos os dias!
+## Oiii eu sou a Patricia Dias Baldez, Desenvolvendo sistemas e sites web front!
 - 🌱 Desenvolvedora front-end
-- 👯 Estudando Typescript ...
+- 👯 Typescript, React, Angular, ...
 
 <div align="center">
   <a href="https://github.com/Patriciabadez">
