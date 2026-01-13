@@ -1,31 +1,68 @@
+<h1 align="center">✨ Oiii, eu sou a Patricia Dias Baldez ✨</h1>
 
-## Oiii eu sou a Patricia Dias Baldez, Desenvolvendo sistemas e sites!
-- 🌱 Desenvolvedora front-end
-- 👯 Typescript, React, Angular, ...
+<h3 align="center">
+  Desenvolvedora Front-end criando interfaces modernas e funcionais 🚀
+</h3>
 
-<div align="center">
-  <a href="https://github.com/Patriciabadez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patriciabadez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patriciabadez&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  💜 TypeScript • Angular • React • Node.js
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paty-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Paty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/patriciabaldez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:patriciabaldez1985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patricia-dias-baldez-a89b0818a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
- 
-![cobrinha_git](https://user-images.githubusercontent.com/88301906/154746912-e4582e04-20c1-47bb-80b3-9cb3c9b25a24.gif)
+---
 
- 
-</div>
+## 💻 Sobre mim
+Sou desenvolvedora apaixonada por tecnologia e design, focada em criar experiências digitais bonitas, organizadas e eficientes.  
+Estou sempre aprendendo e evoluindo para entregar soluções cada vez melhores.
+
+- 🌱 Desenvolvedora Front-end
+- 👯 TypeScript, Angular, React
+- ⚙️ Conhecimentos em Node.js
+- ✨ Código limpo e boas práticas
+
+---
+
+## 🛠️ Tecnologias
+
+### 🎨 Front-end
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
+
+### ⚙️ Back-end
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+---
+
+## 🧰 Ferramentas
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+<p>
+  <a href="https://www.instagram.com/patriciabaldez">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:patriciabaldez1985@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patricia-dias-baldez-a89b0818a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💖 Obrigada por visitar meu perfil!
+</p>
